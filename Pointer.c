@@ -1,4 +1,4 @@
-#include <stdio.h&>
+#include <stdio.h>
 #include <stdlib.h>
 
 int main()
@@ -41,8 +41,8 @@ int main()
 
 	/*
 		- &c indicates address of 'c'
-		- *&c is similar to *(&amp;c) which refers to the value from address
-		  of 'c', or simply 'c'. Therefore the expression *&amp; is redundant.
+		- *&c is similar to *(&c) which refers to the value from address
+		  of 'c', or simply 'c'. Therefore the expression *& is redundant.
 	*/
 
 	printf("%d %d %d \n", a, b, c); // 6 8 20
