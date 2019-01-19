@@ -1,6 +1,6 @@
 # Pointer Step-by-Step Illustration
 
-Kindly open the code @ [Pointer.c](https://github.com/Zephyr-Koo/pcd-2-pointer-demo/blob/master/Pointer.c) and read it side-by-side to follow each step with description.
+Kindly open source code @ [Pointer.c](https://github.com/Zephyr-Koo/pcd-2-pointer-demo/blob/master/Pointer.c) and read it side-by-side to follow each step with description.
 
 ## Step 1
 ![Step 1](https://raw.githubusercontent.com/Zephyr-Koo/pcd-2-pointer-demo/master/step-1.png)
